@@ -6,3 +6,5 @@ function addTwoNumbers(number_1, number_2) {
   let result = number_1 + number_2;
   return result;
 }
+
+addTwoNumbers(1, 2);
